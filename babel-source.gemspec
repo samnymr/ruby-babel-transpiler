@@ -1,7 +1,7 @@
 require File.expand_path("../lib/babel/transpiler/version.rb", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name    = 'babel-transpiler'
+  s.name    = 'babel-source'
   s.version = Babel::Transpiler::VERSION
 
   s.homepage    = "https://github.com/babel/ruby-babel-transpiler"
